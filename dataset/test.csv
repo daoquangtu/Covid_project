@@ -1,0 +1,15 @@
+VAERS_ID,SYMPTOM1,SYMPTOMVERSION1,SYMPTOM2,SYMPTOMVERSION2,SYMPTOM3,SYMPTOMVERSION3,SYMPTOM4,SYMPTOMVERSION4,SYMPTOM5,SYMPTOMVERSION5
+916600,Dysphagia,23.1,Epiglottitis,23.1,,,,,,
+916601,Anxiety,23.1,Dyspnoea,23.1,,,,,,
+916602,Chest discomfort,23.1,Dysphagia,23.1,Pain in extremity,23.1,Visual impairment,23.1,,
+916603,Dizziness,23.1,Fatigue,23.1,Mobility decreased,23.1,,,,
+916604,Injection site erythema,23.1,Injection site pruritus,23.1,Injection site swelling,23.1,Injection site warmth,23.1,,
+916606,Pharyngeal swelling,23.1,,,,,,,,
+916607,Abdominal pain,23.1,Chills,23.1,Sleep disorder,23.1,,,,
+916608,Diarrhoea,23.1,Nasal congestion,23.1,,,,,,
+916609,Vaccination site erythema,23.1,Vaccination site pruritus,23.1,Vaccination site swelling,23.1,,,,
+916610,Rash,23.1,Urticaria,23.1,,,,,,
+916611,Blood pressure decreased,23.1,Chest pain,23.1,Chills,23.1,Confusional state,23.1,Decreased appetite,23.1
+916611,Dyspnoea,23.1,Fatigue,23.1,Feeling abnormal,23.1,Head discomfort,23.1,Headache,23.1
+916611,Heart rate decreased,23.1,Heart rate increased,23.1,Hypertension,23.1,Injection site pain,23.1,Musculoskeletal chest pain,23.1
+916611,Nausea,23.1,Pain,23.1,Pain in extremity,23.1,Paraesthesia oral,23.1,Pyrexia,23.1
